@@ -6,12 +6,12 @@ This software is just for educational purpose. if you use it in unethical way th
 ********************************************************************************************************************************************************************************
 Modules Require :
 Tkinter 
-PIL
-pandas
-os
-time
-threading
-smtplib
+,PIL
+,pandas
+,os
+,time
+,threading
+,smtplib
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 It is only tested in windows 10
 It is made in python 3.8.7 32 bit
