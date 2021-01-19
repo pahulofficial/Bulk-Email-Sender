@@ -1,10 +1,10 @@
 Bulk Email Sender Software GUI. It is made in Tkinter module.
 
 ********************************************************************************************************************************************************************************
-                 Disclaimer 
+ Disclaimer: 
 This software is just for educational purpose. if you use it in unethical way then i am not responsible for it. It is just made for good purpose and for helping the people.
 ********************************************************************************************************************************************************************************
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------Modules Require :
+Modules Require :
 Tkinter 
 PIL
 pandas
